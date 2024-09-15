@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  background: #000;
+  text-decoration-color: aliceblue;
+  color: aliceblue;
+}
+
+a {
+  color: #1cb939;
+}
