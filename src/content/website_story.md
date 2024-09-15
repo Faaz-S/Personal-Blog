@@ -1,9 +1,9 @@
 ---
 slug: "/website-story"
-date: "2023-10-30T16:00:00"
-title: "How this project came to be"
+date: "2023-10-01T16:00:00"
+title: "Why this blog"
 ---
 
-It was only when I migrated to using Obsidian instead of OneNote that I realized how large my collection of notes had become. This, my desire to share my knowledge (without actually spending time teaching people), and my need for a new side-project sparked a sequence that led to the creation of the site you are seeing here.
+As I continue my learning journey, I’ve realized that a lot of what I pick up along the way is worth sharing—whether it’s tech-related nuggets of wisdom or random musings from outside the digital world. So, I figured, why not document it?
 
-Hopefully Subsequent content will be much longer. I'll try my best to not lose motivation...
+This blog is my little corner of the internet, where I’ll drop thoughts, tips, and stories that I hope you’ll find as useful (or at least entertaining) as I did. Dive in, explore, and who knows—you might just stumble across something that sparks an idea!
